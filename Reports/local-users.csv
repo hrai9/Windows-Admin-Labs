@@ -1,0 +1,5 @@
+﻿"Name","Enabled","LastLogon","Description"
+"Administrator","True","2026-01-29 2:01:26 PM","Built-in account for administering the computer/domain"
+"DefaultAccount","False",,"A user account managed by the system."
+"Guest","False",,"Built-in account for guest access to the computer/domain"
+"labuser1","False",,"PowerShell Lab User"

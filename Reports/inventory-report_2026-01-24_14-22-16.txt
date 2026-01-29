@@ -1,0 +1,10 @@
+﻿===== SYSTEM INVENTORY REPORT =====
+Date: 01/24/2026 14:22:17
+Computer Name: SERVER-1
+OS: Microsoft Windows Server 2016 Datacenter Evaluation (10.0.14393)
+CPU: AMD Ryzen 9 7900X3D 12-Core Processor          
+RAM (GB): 8
+Disk C: Size (GB): 59.51
+Disk C: Free (GB): 35.24
+IPv4 Address: 192.168.1.135
+===================================
