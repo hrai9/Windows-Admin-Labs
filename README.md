@@ -47,7 +47,7 @@ Identifies stopped services that are configured to start automatically and optio
 - `Logs/service-actions.log`
 
 **Run options**
-```powershell
+powershell:
 .\service-check.ps1
 .\service-check.ps1 -RestartStopped
 
