@@ -44,7 +44,7 @@ Identifies stopped services that are configured to start automatically and optio
 - Logs actions and failures
 
 **Outputs**
-- `Logs/service-actions.log`
+- 'Logs/service-actions.log'
 
 **Run options**
 powershell:
